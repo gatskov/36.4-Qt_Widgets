@@ -1,0 +1,5 @@
+D:/VSCode/exemple4/36/QtWidgets/build/CMakeFiles/QtWidgets.dir
+D:/VSCode/exemple4/36/QtWidgets/build/CMakeFiles/edit_cache.dir
+D:/VSCode/exemple4/36/QtWidgets/build/CMakeFiles/rebuild_cache.dir
+D:/VSCode/exemple4/36/QtWidgets/build/CMakeFiles/QtWidgets_autogen_timestamp_deps.dir
+D:/VSCode/exemple4/36/QtWidgets/build/CMakeFiles/QtWidgets_autogen.dir

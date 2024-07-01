@@ -1,0 +1,11 @@
+# ninja log v6
+9	847	7415221098469659	QtWidgets_autogen/timestamp	901ad0862e372065
+9	847	7415221098469659	QtWidgets_autogen/mocs_compilation.cpp	901ad0862e372065
+9	847	7415221098469659	D:/VSCode/exemple4/36/QtWidgets/build/QtWidgets_autogen/timestamp	901ad0862e372065
+9	847	7415221098469659	D:/VSCode/exemple4/36/QtWidgets/build/QtWidgets_autogen/mocs_compilation.cpp	901ad0862e372065
+855	925	7415221099768457	QtWidgets_autogen/EWIEGA46WW/qrc_res.cpp	cc00eea3a702e4d7
+855	925	7415221099768457	D:/VSCode/exemple4/36/QtWidgets/build/QtWidgets_autogen/EWIEGA46WW/qrc_res.cpp	cc00eea3a702e4d7
+925	989	7415221099888005	CMakeFiles/QtWidgets.dir/QtWidgets_autogen/mocs_compilation.cpp.obj	195f339a0eb2efa1
+931	1023	7415221099937740	CMakeFiles/QtWidgets.dir/QtWidgets_autogen/EWIEGA46WW/qrc_res.cpp.obj	19266275499601f3
+928	3025	7415221099918018	CMakeFiles/QtWidgets.dir/main.cpp.obj	71872cb5c2e1002c
+3026	3303	7415221120888052	QtWidgets.exe	1ef756e80c7b68a2
